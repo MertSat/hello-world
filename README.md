@@ -1,2 +1,3 @@
 # hello-world
-bu sene o sene
+bu sene o sene,
+seni seviyorum adamım
